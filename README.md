@@ -1,4 +1,4 @@
-# Spotify Web Player
+# Spotify Web Player clone 
 
 This project is a simple implementation of a web player interface for Spotify, designed to showcase various features and functionalities.
 
